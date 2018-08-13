@@ -11,3 +11,5 @@ How to use code:
 5. Run as TestNg tests.
 
 Test report can be found at : https://github.com/subodh2691/HelloFresh/blob/master/test-output/HellofreshAutomation.html
+
+![alt text](https://github.com/subodh2691/HelloFresh/blob/master/test-output/Report.png)
